@@ -1,5 +1,5 @@
 {
-    "name": "fignoweb/composer-git-hooks",
+    "name": "fingoweb/composer-git-hooks",
     "description": "Easily manage git hooks in your composer config",
     "type": "library",
     "minimum-stability": "stable",
